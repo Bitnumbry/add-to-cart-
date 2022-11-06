@@ -8,4 +8,4 @@ js add to cart function
 [![Twitter Follow](https://img.shields.io/twitter/follow/mulongojoel?style=social)](https://twitter.com/intent/follow?screen_name=mulongojoel)
 <img width="130" height="20" src="https://visitor-badge.glitch.me/badge?page_id=joelwmulongo/meteorological-department">
 
-<img src="images/online-shopping.jpg></img>
+<img src="images/online-shopping.jpg"></img>
