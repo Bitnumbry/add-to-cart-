@@ -1,7 +1,7 @@
 # add-to-cart-
 js add to cart function
 
-English |
+English | <a href="https://github.com/JoelwMulongo/add-to-cart-/blob/main/README_swa.md">Swahili</a>
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/joelwmulongo/meteorological-department)
 ![GitHub stars](https://img.shields.io/github/stars/joelwmulongo/meteorological-department?style=social)
