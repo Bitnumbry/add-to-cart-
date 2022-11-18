@@ -1,6 +1,7 @@
 # add-to-cart-
 js add to cart function
 
+English |
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/joelwmulongo/meteorological-department)
 ![GitHub stars](https://img.shields.io/github/stars/joelwmulongo/meteorological-department?style=social)
